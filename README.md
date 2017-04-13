@@ -8,14 +8,11 @@
 - 支持vuex
 - 支持vue-router
 - 支持vue-resource
-<<<<<<< HEAD
 - 支持[element-ui](http://element.eleme.io/#/zh-CN/component/)
 - 支持[mint-ui](http://mint-ui.github.io/#!/zh-cn)
 - 支持[iview](https://www.iviewui.com/)
-=======
 - 支持element-ui
 - 支持iview
->>>>>>> origin/master
 - 支持axios
 - 支持exprss服务器搭建
 
@@ -31,5 +28,23 @@
 
 ### useful link
 - [智能社](http://zns.ke.qq.com)
-
+<hr>
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### contact
+    <ul>
+      <li>
+        <a href="http://www.cnblogs.com/xiongwei2017" target="_blank">博客园</a>
+      </li>
+      <li>
+        <a href="http://blog.csdn.net/judy201654321" target="_blank">CSDN</a>
+      </li>
+      <li>
+        <a href="http://www.jianshu.com/u/c59ffede9db6" target="_blank">简书</a>
+      </li>
+      <li>
+        <a href="https://github.com/xiongxiaowei/judy201654321" target="_blank">judy201654321</a>
+      </li>
+      <li>
+        <a href="https://github.com/xiongxiaowei/js_method" target="_blank">js_method</a>
+      </li>
+    </ul>
