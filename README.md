@@ -20,7 +20,7 @@
 
 ### [Es6](http://eslint.org/docs/rules/)语法校验
 ### 更新日志
->- 能发送事件,并能监视路由变化（2017-04-02）
+- 能发送事件,并能监视路由变化（2017-04-02）
 - 增加axios插件
 - 增加[iview](https://www.iviewui.com/docs/guide/install)UI组件 | [Github Address](https://github.com/iview/iview)（2017-04-12）
 
