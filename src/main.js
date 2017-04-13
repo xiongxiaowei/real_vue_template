@@ -7,6 +7,9 @@ import ElementUI from 'element-ui'
 import iView from 'iview'
 import 'iview/dist/styles/iview.css'   // 使用 CSS
 Vue.use(iView)
+import MintUI from 'mint-ui'
+import 'mint-ui/lib/style.css'
+Vue.use(MintUI)
 import 'element-ui/lib/theme-default/index.css'
 import VueRouter from 'vue-router'
 import store from './store1/index'

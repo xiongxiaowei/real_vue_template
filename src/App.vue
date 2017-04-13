@@ -8,11 +8,12 @@
       <p>现在的数字是:{{count}},他是{{odd}}</p>
     <el-button type="primary" icon="search">搜索</el-button>
     <img src="./assets/logo.png">
+    <v-header></v-header>
     <v-nav></v-nav>
     <keep-alive>
       <router-view></router-view>
     </keep-alive>
-    <v-header></v-header>
+
 
     <div class="">
       {{seller}}
