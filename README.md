@@ -9,6 +9,8 @@
 - 支持vue-router
 - 支持vue-resource
 - 支持element-ui
+- 支持iview
+- 支持axios
 - 支持exprss服务器搭建
 
 ### issues
@@ -18,30 +20,8 @@
 ### 更新日志
 >- 能发送事件,并能监视路由变化（2017-04-02）
 - 增加axios插件
-- 增加[iview-ui](https://www.iviewui.com/docs/guide/install) <br> [github_address](https://github.com/iview/iview)（2017-04-12）
+- 增加[iview]UI组件(https://www.iviewui.com/docs/guide/install) | [Github Address](https://github.com/iview/iview)（2017-04-12）
 
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-[智能社](http://zns.ke.qq.com)
+### useful link
+- [智能社](http://zns.ke.qq.com)
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
