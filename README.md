@@ -32,6 +32,7 @@
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ### contact
+
     <ul>
       <li>
         <a href="http://www.cnblogs.com/xiongwei2017" target="_blank">博客园</a>
