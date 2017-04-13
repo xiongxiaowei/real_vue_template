@@ -1,8 +1,8 @@
-# vue2.0 totals here
+### vue2.0 totals here
 
 > A Vue.js project
 
-## Introduction
+### Introduction
 > 自己制定的功能比较全面的vue.js框架
 - 支持stylus及各种css样式的import，.vue中引入css要用@import，js中require，import都可以
 - 支持vuex
@@ -26,8 +26,7 @@
 
 ### useful link
 - [智能社](http://zns.ke.qq.com)
-<hr>
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 <hr>
     <ul>
       <li>
