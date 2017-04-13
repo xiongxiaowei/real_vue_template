@@ -11,8 +11,6 @@
 - 支持[element-ui](http://element.eleme.io/#/zh-CN/component/)
 - 支持[mint-ui](http://mint-ui.github.io/#!/zh-cn)
 - 支持[iview](https://www.iviewui.com/)
-- 支持element-ui
-- 支持iview
 - 支持axios
 - 支持exprss服务器搭建
 
@@ -30,9 +28,7 @@
 - [智能社](http://zns.ke.qq.com)
 <hr>
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-### contact
-
+<hr>
     <ul>
       <li>
         <a href="http://www.cnblogs.com/xiongwei2017" target="_blank">博客园</a>
