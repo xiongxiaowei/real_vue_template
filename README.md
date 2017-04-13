@@ -8,9 +8,14 @@
 - 支持vuex
 - 支持vue-router
 - 支持vue-resource
+<<<<<<< HEAD
 - 支持[element-ui](http://element.eleme.io/#/zh-CN/component/)
 - 支持[mint-ui](http://mint-ui.github.io/#!/zh-cn)
 - 支持[iview](https://www.iviewui.com/)
+=======
+- 支持element-ui
+- 支持iview
+>>>>>>> origin/master
 - 支持axios
 - 支持exprss服务器搭建
 
